@@ -51,16 +51,16 @@
   - [ ] NextAuth.js beta for authentication
   - [ ] Stripe for payments
 
-### 2. Database and Authentication [X]
+### 2. Database and Authentication [ ]
 
 - [x] Set up PostgreSQL database
 - [x] Configure Prisma schema:
-  - User model
-  - Product model
-  - Category model
-  - Order model
-  - Review model
-  - Cart model
+  - [x] User model
+  - [x] Product model
+  - [x] Category model
+  - [x] Order model
+  - [x] Review model
+  - [x] Cart model
 - [x] Implement NextAuth.js authentication:
   - Email/Password
   - OAuth providers (Google, GitHub)

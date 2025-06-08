@@ -31,6 +31,12 @@ Start from this step
   - Review model
   - Cart model
 
+
+  Seed sample categories, product and users. for category and product images use the images inside public/images folder. we have three categories. T-shirts, and shoes and two product inside each category.
+
+
+  correct product images base on files start with p in the `public/images` folder.
+
 ## Prompt 4
 
 - [ ] Implement NextAuth.js authentication:
