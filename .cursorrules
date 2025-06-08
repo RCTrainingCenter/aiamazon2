@@ -1,7 +1,7 @@
 # Cursor Rules
 
 ## Instructions
-
+### 1. Project Setup and Configuration [ ]
 - Record fixes for mistakes or corrections to avoid repetition in the `Lessons` section.
 - Organize thoughts and plan steps before starting a task in the `Scratchpad` section.
 - Clear old tasks if necessary.
@@ -33,23 +33,23 @@
 
 ## Scratchpad
 
-### 1. Project Setup and Configuration [X]
+
 
 - [x] Initialize Next.js 15 project with TypeScript
 - [x] Set up project structure and folders
 - [x] Configure ESLint and Prettier
-- [x] Install and configure dependencies:
-  - Shadcn UI components
-  - Lucide icons
-  - Zod for validation
-  - Zustand for state management
-  - Recharts for analytics
-  - Resend for emails
-  - Uploadthing for file uploads
-  - Prisma ORM
-  - PostgreSQL database
-  - NextAuth.js beta for authentication
-  - Stripe for payments
+- [ ] Install and configure dependencies:
+  - [x] Shadcn UI components
+  - [ ] Lucide icons
+  - [ ] Zod for validation
+  - [ ] Zustand for state management
+  - [ ] Recharts for analytics
+  - [ ] Resend for emails
+  - [ ] Uploadthing for file uploads
+  - [ ] Prisma ORM
+  - [ ] PostgreSQL database
+  - [ ] NextAuth.js beta for authentication
+  - [ ] Stripe for payments
 
 ### 2. Database and Authentication [X]
 
